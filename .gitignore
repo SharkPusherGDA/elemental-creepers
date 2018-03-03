@@ -37,4 +37,3 @@ hs_err_pid*
 # Project-specific dependencies
 /eclipse/
 /lib/
-src/main/resources/assets/elementalcreepers/textures/entities/earthcreeper.png
